@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045965580557",
+    "project_id": "auth-f876b",
+    "storage_bucket": "auth-f876b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045965580557:android:a6499fdd82255093132844",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUp85PLCl71Nz6z_xhsttyAGhyC7HM8v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
